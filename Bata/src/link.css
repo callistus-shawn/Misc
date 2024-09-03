@@ -1,0 +1,17 @@
+.im{
+margin-top: -40px;
+}
+a{
+    color:black;
+    margin-right:100px;
+    text-decoration: none;
+    font-weight:bold;
+    font-family: "Montserrat",sans-serif;
+    font-size: 18px;
+    &:hover,&:focus{
+       color: red;
+       
+   
+    }
+   }
+
